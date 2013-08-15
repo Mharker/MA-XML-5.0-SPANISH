@@ -182,10 +182,10 @@
   <string name="description_image_button_four">cuatro</string>
   <string name="description_image_button_nine">nueve</string>
   <string name="description_image_button_one">uno</string>
-  <string name="description_image_button_pound">libra</string>
+  <string name="description_image_button_pound">numeral</string>
   <string name="description_image_button_seven">siete</string>
   <string name="description_image_button_six">seis</string>
-  <string name="description_image_button_star">estrella</string>
+  <string name="description_image_button_star">asterisco</string>
   <string name="description_image_button_three">tres</string>
   <string name="description_image_button_two">dos</string>
   <string name="description_image_button_zero">cero</string>

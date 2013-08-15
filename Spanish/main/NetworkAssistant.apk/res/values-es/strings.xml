@@ -43,7 +43,7 @@
   <string name="edit_frame_free_traffic_title">Paquete</string>
   <string name="edit_frame_month_start_title">Inicio</string>
   <string name="edit_frame_warning_title">Aviso</string>
-  <string name="empty"  />
+  <string name="empty">Vacio</string>
   <string name="finish_traffic_settings_hint">Ajustes de paquete finalizado</string>
   <string name="finish_traffic_settings_message">"Se han usado %s. Son correctos estos valores? Puedes 'Ajustar' para modificarlo."</string>
   <string name="finish_traffic_settings_title">Ajustar datos consumidos</string>
